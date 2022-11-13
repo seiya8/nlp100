@@ -1,3 +1,3 @@
 text1 = 'パトカー'
 text2 = 'タクシー'
-puts text1.each_char.zip(text2.each_char).map { |s, t| s + t }.join
+puts text1.chars.zip(text2.chars).map { |s, t| s + t }.join
