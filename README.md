@@ -10,7 +10,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 ||04|元素記号|[✅](./ch01/ch01_04.py)|[✅](./ch01/ch01_04.rb)|-|
 ||05|n-gram|[✅](./ch01/ch01_05.py)|[✅](./ch01/ch01_05.rb)|-|
 ||06|集合|[✅](./ch01/ch01_06.py)|[✅](./ch01/ch01_06.rb)|-|
-||07|テンプレートによる文生成Permalink|[✅](./ch01/ch01_07.py)|[✅](./ch01/ch01_07.rb)|-|
+||07|テンプレートによる文生成|[✅](./ch01/ch01_07.py)|[✅](./ch01/ch01_07.rb)|-|
 ||08|暗号文|[✅](./ch01/ch01_08.py)|[✅](./ch01/ch01_08.rb)|-|
 ||09|Typoglycemia|[✅](./ch01/ch01_09.py)|[✅](./ch01/ch01_09.rb)|-|
 |[02](https://nlp100.github.io/ja/ch02.html)|10|行数のカウント|[✅](./ch02/ch02_10.py)|[✅](./ch02/ch02_10.rb)|[✅](./ch02/ch01_10.sh)|
