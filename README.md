@@ -3,7 +3,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 
 |Chapter|No.|Python|Ruby|Shell|
 |---|---|---|---|---|
-|![01](https://nlp100.github.io/ja/ch01.html)|00|✅|✅|-|
+|[01](https://nlp100.github.io/ja/ch01.html)|00|✅|✅|-|
 ||01|✅|✅|-|
 ||02|✅|✅|-|
 ||03|✅|✅|-|
@@ -43,4 +43,3 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 ||37|||-|
 ||38|||-|
 ||39|||-|
-<!-- |<a href="https://nlp100.github.io/ja/ch01.html" target="_blank">01</a>|00|✅|✅|-| -->
