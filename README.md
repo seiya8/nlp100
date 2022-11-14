@@ -3,7 +3,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 
 |Chapter|No.|Python|Ruby|Shell|
 |---|---|---|---|---|
-|1|00|✅|✅|-|
+|[01](https://nlp100.github.io/ja/ch01.html)|00|✅|✅|-|
 ||01|✅|✅|-|
 ||02|✅|✅|-|
 ||03|✅|✅|-|
@@ -13,7 +13,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 ||07|✅|✅|-|
 ||08|✅|✅|-|
 ||09|✅|✅|-|
-|2|10|✅|✅|✅|
+|[02](https://nlp100.github.io/ja/ch02.html)|10|✅|✅|✅|
 ||11|✅|✅|✅|
 ||12|✅||✅|
 ||13|✅||✅|
@@ -23,7 +23,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 ||17||||
 ||18||||
 ||19||||
-|3|20|||-|
+|[03](https://nlp100.github.io/ja/ch03.html)|20|||-|
 ||21|||-|
 ||22|||-|
 ||23|||-|
@@ -33,7 +33,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 ||27|||-|
 ||28|||-|
 ||29|||-|
-|4|30|||-|
+|[04](https://nlp100.github.io/ja/ch04.html)|30|||-|
 ||31|||-|
 ||32|||-|
 ||33|||-|
