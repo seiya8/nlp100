@@ -3,7 +3,7 @@ my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 
 |Chapter|No.|Title|Python|Ruby|Shell|
 |---|---|---|---|---|---|
-|[01](https://nlp100.github.io/ja/ch01.html)|00|文字列の逆順|[✅](./ch01/ch01_00.py)|[✅](./ch01/ch01_00.rb)|-|
+|[01](https://nlp100.github.io/ja/ch01.html)|00|<details><summary>文字列の逆順</summary>文字列”stressed”の文字を逆に（末尾から先頭に向かって）並べた文字列を得よ．</details>|[✅](./ch01/ch01_00.py)|[✅](./ch01/ch01_00.rb)|-|
 ||01|パタトクカシーー」|[✅](./ch01/ch01_01.py)|[✅](./ch01/ch01_01.rb)|-|
 ||02|「パトカー」＋「タクシー」＝「パタトクカシーー」|[✅](./ch01/ch01_02.py)|[✅](./ch01/ch01_02.rb)|-|
 ||03|円周率|[✅](./ch01/ch01_03.py)|[✅](./ch01/ch01_03.rb)|-|
