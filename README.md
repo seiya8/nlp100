@@ -1,7 +1,7 @@
 # nlp100
 my solutions of [NLP 100 Exercise](https://nlp100.github.io/ja/)
 
-|chapter|No.|Python|Ruby|Shell|
+|Chapter|No.|Python|Ruby|Shell|
 |---|---|---|---|---|
 |1|00|✅|✅|-|
 ||01|✅|✅|-|
