@@ -1,5 +1,4 @@
 require 'chrome_remote'
-require 'nokogiri'
 
 def navigate_and_wait(url)
   @chrome.send_cmd 'Page.navigate', url: url
